@@ -1,0 +1,934 @@
+{
+  "filename": "sample_petition2.txt",
+  "sections": {
+    "introduction": [
+      {
+        "criterion": "Criterion 10 - Commercial Success",
+        "pattern": "financial data is self-reported without verification",
+        "sentence": "INA"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "financial documentation does not demonstrate ability to pay the proffered wage",
+        "sentence": "INA"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "no final merits determination required due to failure in initial criteria",
+        "sentence": "INA"
+      }
+    ],
+    "award": [
+      {
+        "criterion": "Criterion 1 - Awards",
+        "pattern": "no evidence of a nationally or internationally recognized award",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 1 - Awards",
+        "pattern": "award lacks documentation of selection criteria",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 1 - Awards",
+        "pattern": "award not shown to be competitive or prestigious",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 1 - Awards",
+        "pattern": "award is not exclusive or merit-based",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 1 - Awards",
+        "pattern": "award appears local or non-industry specific",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 1 - Awards",
+        "pattern": "petitioner did not demonstrate how award signifies acclaim",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 1 - Awards",
+        "pattern": "no evidence award is recognized by peers in the field",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 1 - Awards",
+        "pattern": "no documentation showing awards are nationally or internationally recognized",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 1 - Awards",
+        "pattern": "educational certifications submitted are not considered prizes for excellence",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 1 - Awards",
+        "pattern": "award documentation lacks detail on scope and prestige",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 1 - Awards",
+        "pattern": "has not demonstrated that the award was nationally recognized",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 1 - Awards",
+        "pattern": "submitted certificates do not indicate competitive selection process",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 1 - Awards",
+        "pattern": "awards are generic recognitions without merit-based evaluation",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 1 - Awards",
+        "pattern": "no documentation of prestigious or merit-based awards submitted",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 1 - Awards",
+        "pattern": "educational credentials not recognized as prizes for excellence",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 1 - Awards",
+        "pattern": "petition does not cite competitive recognition for professional excellence",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 1 - Awards",
+        "pattern": "insufficient evidence about selection criteria for the award",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 1 - Awards",
+        "pattern": "unclear whether other candidates were considered",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 1 - Awards",
+        "pattern": "award not corroborated with independent validation",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 1 - Awards",
+        "pattern": "Awards were regional or university-level, not recognized nationally or internationally.",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 1 - Awards",
+        "pattern": "Certificates related to academic presentations, not fitness training.",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 1 - Awards",
+        "pattern": "No proof that awards were based on excellence in the claimed field of endeavor.",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 1 - Awards",
+        "pattern": "Recognition limited to one institution; lacked broader acclaim.",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 2 - Memberships",
+        "pattern": "membership open to general public",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 2 - Memberships",
+        "pattern": "no indication of selective or merit-based admission",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 2 - Memberships",
+        "pattern": "fails to demonstrate recognition of outstanding achievements",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 2 - Memberships",
+        "pattern": "membership does not require prior accomplishments",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 2 - Memberships",
+        "pattern": "organization\u2019s criteria not provided or vague",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 2 - Memberships",
+        "pattern": "petitioner did not show how membership reflects distinction in the field",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 2 - Memberships",
+        "pattern": "organization's by laws do not require professional achievements for admission",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 2 - Memberships",
+        "pattern": "no evidence the membership was selective",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 2 - Memberships",
+        "pattern": "membership does not reflect recognition by experts in the field",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 2 - Memberships",
+        "pattern": "no selective or achievement-based memberships shown",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 2 - Memberships",
+        "pattern": "no evidence that associations require outstanding accomplishments for entry",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 2 - Memberships",
+        "pattern": "not addressed by petitioner",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 2 - Memberships",
+        "pattern": "no documentation submitted to show merit-based membership",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 2 - Memberships",
+        "pattern": "No evidence submitted of membership in prestigious associations requiring outstanding achievement.",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 3 - Publications About the Beneficiary",
+        "pattern": "media coverage is promotional in nature",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 3 - Publications About the Beneficiary",
+        "pattern": "articles do not focus on the petitioner",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 3 - Publications About the Beneficiary",
+        "pattern": "no evidence of national or international circulation",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 3 - Publications About the Beneficiary",
+        "pattern": "articles not from independent or reputable sources",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 3 - Publications About the Beneficiary",
+        "pattern": "coverage lacks critical review or analysis",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 3 - Publications About the Beneficiary",
+        "pattern": "no third-party publications submitted",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 3 - Publications About the Beneficiary",
+        "pattern": "petitioner failed to demonstrate media was about their work",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 3 - Publications About the Beneficiary",
+        "pattern": "articles authored by petitioner are not independent evaluations",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 3 - Publications About the Beneficiary",
+        "pattern": "submitted materials are self-published or promotional",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 3 - Publications About the Beneficiary",
+        "pattern": "coverage lacks objectivity and professional analysis",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 3 - Publications About the Beneficiary",
+        "pattern": "articles authored by petitioner are not independent evaluations",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 3 - Publications About the Beneficiary",
+        "pattern": "submitted materials are self-published or promotional",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 3 - Publications About the Beneficiary",
+        "pattern": "coverage lacks objectivity and professional analysis",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 3 - Publications About the Beneficiary",
+        "pattern": "This criterion was claimed but not evaluated due to failure to meet the threshold of three criteria.",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 3 - Publications About the Beneficiary",
+        "pattern": "Insufficient evidence provided regarding independent media coverage or acclaim.",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 4 - Judging",
+        "pattern": "no documentation of judging activities",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 4 - Judging",
+        "pattern": "invitations to judge not shown to be based on professional merit",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 4 - Judging",
+        "pattern": "judging occurred outside the petitioner's field of expertise",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 4 - Judging",
+        "pattern": "events not linked to recognized professional organizations",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 4 - Judging",
+        "pattern": "judging role not clearly described or verified",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 4 - Judging",
+        "pattern": "no evidence of evaluating work of others in the field",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 4 - Judging",
+        "pattern": "judging invitations not supported by credible organizations",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 4 - Judging",
+        "pattern": "participation appears ceremonial or honorary",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 4 - Judging",
+        "pattern": "no proof of selection to judge based on expertise",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 4 - Judging",
+        "pattern": "petitioner failed to demonstrate criteria for selection as judge",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 4 - Judging",
+        "pattern": "No documentation of judging work in professional competitions or scholarly panels related to fitness.",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 5 - Original Contributions",
+        "pattern": "contributions not widely cited or adopted",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 5 - Original Contributions",
+        "pattern": "letters of support are conclusory and lack specific impact",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 5 - Original Contributions",
+        "pattern": "no peer-reviewed studies or third-party endorsements provided",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 5 - Original Contributions",
+        "pattern": "contributions not demonstrably influential beyond immediate team",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 5 - Original Contributions",
+        "pattern": "letters lack detail or come from biased sources",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 5 - Original Contributions",
+        "pattern": "claims are vague or unsupported by objective evidence",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 5 - Original Contributions",
+        "pattern": "no proof of major significance in the field",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 5 - Original Contributions",
+        "pattern": "no publications, patents, or measurable impact tied to contributions",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 5 - Original Contributions",
+        "pattern": "contributions are not distinguishable from normal professional work",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 5 - Original Contributions",
+        "pattern": "evidence lacks third-party validation of contribution",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 5 - Original Contributions",
+        "pattern": "contributions not evaluated due to failure to meet threshold criteria",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 5 - Original Contributions",
+        "pattern": "letters of support are conclusory and lack specific impact",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 5 - Original Contributions",
+        "pattern": "Methodology praised by clients but lacked evidence of impact beyond personal sessions.",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 5 - Original Contributions",
+        "pattern": "Reference letters vague on what made his methods 'innovative' or how they were novel.",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 5 - Original Contributions",
+        "pattern": "No demonstration of adoption by wider fitness or health industry.",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 5 - Original Contributions",
+        "pattern": "Claimed use in universities lacked documentation or third-party verification.",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 5 - Original Contributions",
+        "pattern": "Medical applications of methodology questionable due to lack of credentials.",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 6 - Authorship",
+        "pattern": "no scholarly publications provided",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 6 - Authorship",
+        "pattern": "articles not published in peer-reviewed journals",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 6 - Authorship",
+        "pattern": "no evidence of impact or recognition in the field",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 6 - Authorship",
+        "pattern": "no citation metrics or readership figures submitted",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 6 - Authorship",
+        "pattern": "publications not shown to be influential",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 6 - Authorship",
+        "pattern": "authorship appears unrelated to petitioner\u2019s claimed area of expertise",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 6 - Authorship",
+        "pattern": "no evidence that books were published in professional or major media",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 6 - Authorship",
+        "pattern": "did not submit documentation of authorship",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 6 - Authorship",
+        "pattern": "authorship was not demonstrated",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 6 - Authorship",
+        "pattern": "no verification of journal reputation",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 6 - Authorship",
+        "pattern": "articles not indexed in academic databases",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 6 - Authorship",
+        "pattern": "authorship appears incidental to job duties",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 6 - Authorship",
+        "pattern": "Claimed but reserved from review due to failure to meet the threshold of three criteria.",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 6 - Authorship",
+        "pattern": "Published work appeared in student-focused journals, not major trade or academic publications.",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 7 - Exhibitions",
+        "pattern": "no documentation of exhibitions or showcases",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 7 - Exhibitions",
+        "pattern": "exhibits not shown to be national or international in scope",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 7 - Exhibitions",
+        "pattern": "no evidence of public recognition",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 7 - Exhibitions",
+        "pattern": "venue or event lacks reputation in the field",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 7 - Exhibitions",
+        "pattern": "exhibition appears self-organized or not professionally curated",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 7 - Exhibitions",
+        "pattern": "no third-party acknowledgment of artistic merit",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 7 - Exhibitions",
+        "pattern": "no curator statement or professional review of exhibition",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 7 - Exhibitions",
+        "pattern": "showcases were private or non-public in nature",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 7 - Exhibitions",
+        "pattern": "event does not appear in professional calendars or industry listings",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 7 - Exhibitions",
+        "pattern": "No clear explanation of how work was 'displayed' beyond competition participation.",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 7 - Exhibitions",
+        "pattern": "Presentations at academic conferences were unrelated or tangential to field of endeavor.",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 8 - Leading/Critical Role",
+        "pattern": "titles alone do not establish critical role",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 8 - Leading/Critical Role",
+        "pattern": "letters do not explain impact or significance",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 8 - Leading/Critical Role",
+        "pattern": "no independent evidence of leadership",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 8 - Leading/Critical Role",
+        "pattern": "no organizational metrics showing influence",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 8 - Leading/Critical Role",
+        "pattern": "critical role not tied to major projects or recognized institutions",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 8 - Leading/Critical Role",
+        "pattern": "petitioner failed to show that their role was essential to success",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 8 - Leading/Critical Role",
+        "pattern": "duties appear routine or administrative",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 8 - Leading/Critical Role",
+        "pattern": "project outcomes not directly tied to petitioner\u2019s actions",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 8 - Leading/Critical Role",
+        "pattern": "role described as supportive, not leading",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 8 - Leading/Critical Role",
+        "pattern": "organizations not shown to be distinguished or influential",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 9 - High Salary",
+        "pattern": "no salary data provided",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 9 - High Salary",
+        "pattern": "no comparison to industry standards",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 9 - High Salary",
+        "pattern": "compensation not shown to be above peers",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 9 - High Salary",
+        "pattern": "petitioner failed to submit credible wage surveys",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 9 - High Salary",
+        "pattern": "income data not verified by third-party sources",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 9 - High Salary",
+        "pattern": "earnings not adjusted for geography or job level",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 9 - High Salary",
+        "pattern": "income derived from freelance work or inconsistent sources",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 9 - High Salary",
+        "pattern": "submitted pay stubs do not show comparative earnings",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 9 - High Salary",
+        "pattern": "salary appears within average range for region and profession",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 9 - High Salary",
+        "pattern": "no comparative wage data provided",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 9 - High Salary",
+        "pattern": "no indication that compensation exceeds norms within civil engineering field",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 10 - Commercial Success",
+        "pattern": "did not provide evidence of commercial impact of work",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 10 - Commercial Success",
+        "pattern": "failed to demonstrate commercial success in the performing arts",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 10 - Commercial Success",
+        "pattern": "no sales or revenue figures submitted",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 10 - Commercial Success",
+        "pattern": "no third-party verification of commercial impact",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 10 - Commercial Success",
+        "pattern": "letters do not support claims of success",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 10 - Commercial Success",
+        "pattern": "petitioner did not link commercial success to own work",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 10 - Commercial Success",
+        "pattern": "no industry awards, rankings, or recognitions provided",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 10 - Commercial Success",
+        "pattern": "financial data is self-reported without verification",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 10 - Commercial Success",
+        "pattern": "sales figures not provided or unverifiable",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 10 - Commercial Success",
+        "pattern": "media coverage does not mention commercial impact",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 10 - Commercial Success",
+        "pattern": "no reviews or ratings provided to support success claims",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 10 - Commercial Success",
+        "pattern": "criterion not applicable to petitioner\u2019s occupational field",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Criterion 10 - Commercial Success",
+        "pattern": "no evidence of commercial impact in arts or entertainment submitted",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "no evidence",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "not sufficient",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "insufficient documentation",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "not significant",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "does not establish",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "failed to demonstrate",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "not significant",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "not substantial",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "does not establish",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "insufficient documentation",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "evaluation of this criterion was reserved since the petitioner failed to meet three total criteria",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "petitioner has not demonstrated satisfaction of at least three criteria",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "no evidence presented to support regulatory requirements",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "documentation submitted is insufficient to meet the evidentiary threshold",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "petition lacks support from independent or objective sources",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "submitted evidence is vague, conclusory, or self-generated",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "no third-party validation of claimed achievements",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "petitioner's role appears routine and not distinguished",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "the record does not establish eligibility under the required classification",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "claims are not supported by verifiable documentation",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "evaluation of this criterion was reserved due to failure to meet overall eligibility",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "the petitioner failed to respond adequately to the request for evidence",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "financial documentation does not demonstrate ability to pay the proffered wage",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "petitioner has not demonstrated satisfaction of at least three criteria",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "documentation is insufficient to meet evidentiary threshold",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "claims are unsupported by objective, independent sources",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "no third-party validation of achievements",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "evidence submitted does not meet plain language requirements of the regulation",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "no final merits determination required due to failure in initial criteria",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "record does not support sustained national or international acclaim",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "petitioner does not appear to be among the small percentage at the top of their field",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "materials submitted lack credibility or professional recognition",
+        "sentence": "I"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "petition denied due to failure to meet evidentiary burden",
+        "sentence": "I"
+      },
+      {
+        "criterion": "critical_role",
+        "pattern": "no documentation of critical role",
+        "sentence": "I"
+      },
+      {
+        "criterion": "critical_role",
+        "pattern": "did not establish",
+        "sentence": "I"
+      },
+      {
+        "criterion": "critical_role",
+        "pattern": "limited evidence",
+        "sentence": "I"
+      },
+      {
+        "criterion": "critical_role",
+        "pattern": "not in a distinguished organization",
+        "sentence": "I"
+      },
+      {
+        "criterion": "critical_role",
+        "pattern": "insufficient evidence",
+        "sentence": "I"
+      },
+      {
+        "criterion": "critical_role",
+        "pattern": "the petitioner did not show",
+        "sentence": "I"
+      },
+      {
+        "criterion": "critical_role",
+        "pattern": "no documentation of critical role",
+        "sentence": "I"
+      },
+      {
+        "criterion": "critical_role",
+        "pattern": "not in a distinguished organization",
+        "sentence": "I"
+      },
+      {
+        "criterion": "critical_role",
+        "pattern": "insufficient evidence",
+        "sentence": "I"
+      },
+      {
+        "criterion": "critical_role",
+        "pattern": "the petitioner did not show",
+        "sentence": "I"
+      }
+    ]
+  }
+}

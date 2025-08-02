@@ -1,0 +1,22 @@
+{
+  "filename": "sample_petition.txt",
+  "sections": {
+    "introduction": [
+      {
+        "criterion": "Criterion 10 - Commercial Success",
+        "pattern": "financial data is self-reported without verification",
+        "sentence": "INA"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "financial documentation does not demonstrate ability to pay the proffered wage",
+        "sentence": "INA"
+      },
+      {
+        "criterion": "Common Denials",
+        "pattern": "no final merits determination required due to failure in initial criteria",
+        "sentence": "INA"
+      }
+    ]
+  }
+}

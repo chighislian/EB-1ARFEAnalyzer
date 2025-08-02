@@ -1,0 +1,12 @@
+{
+  "filename": "sample_petition3.txt",
+  "sections": {
+    "award": [
+      {
+        "criterion": "Common Denials",
+        "pattern": "no evidence",
+        "sentence": "There is no evidence that the awards were nationally recognized."
+      }
+    ]
+  }
+}
