@@ -122,13 +122,13 @@ The final QA memo looks like this (DOCX or PDF):
 
 
 
-
-
-📌 Notes
-	•	You can drop in any .docx or .pdf petition file by updating INPUT_FILE
-	•	Output reports are saved to the reports/ folder with same base filename
-	•	Red flags and suggestions are based on real AAO, USCIS Policy Manual, and RFE examples
-
+    
+## Notes
+- Tested on Windows with Python 3.10.
+- Red flags and suggestions are based on real AAO, USCIS Policy Manual, and RFE examples
+- Sample petitions are synthetic for demonstration purposes.
+- You can drop in any .docx or .pdf petition file by updating INPUT_FILE
+- Output reports are saved to the reports/ folder with same base filename
 ⸻
   
 💡 Future Improvements
